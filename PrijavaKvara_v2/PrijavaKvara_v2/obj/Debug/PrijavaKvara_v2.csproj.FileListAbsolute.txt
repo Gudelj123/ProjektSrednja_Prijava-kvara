@@ -1,0 +1,62 @@
+C:\Users\Ivan\AppData\Local\Temporary Projects\PrijavaKvara_v2\bin\Debug\PrijavaKvara_v2.exe.config
+C:\Users\Ivan\AppData\Local\Temporary Projects\PrijavaKvara_v2\bin\Debug\PrijavaKvara_v2.exe
+C:\Users\Ivan\AppData\Local\Temporary Projects\PrijavaKvara_v2\bin\Debug\PrijavaKvara_v2.pdb
+C:\Users\Ivan\AppData\Local\Temporary Projects\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\AppData\Local\Temporary Projects\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.Form1.resources
+C:\Users\Ivan\AppData\Local\Temporary Projects\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.Form2.resources
+C:\Users\Ivan\AppData\Local\Temporary Projects\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.Properties.Resources.resources
+C:\Users\Ivan\AppData\Local\Temporary Projects\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.csproj.GenerateResource.Cache
+C:\Users\Ivan\AppData\Local\Temporary Projects\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.exe
+C:\Users\Ivan\AppData\Local\Temporary Projects\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.pdb
+C:\Users\Ivan\AppData\Local\Temporary Projects\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.Form3.resources
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\PrijavaKvara_v2\PrijavaKvara_v2\bin\Debug\PrijavaKvara_v2.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\PrijavaKvara_v2\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.exe
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\PrijavaKvara_v2\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.pdb
+C:\Users\Darjan\Documents\Visual Studio 2015\Projects\PrijavaKvara_v2\PrijavaKvara_v2\bin\Debug\PrijavaKvara_v2.exe.config
+C:\Users\Darjan\Documents\Visual Studio 2015\Projects\PrijavaKvara_v2\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.exe
+C:\Users\Darjan\Documents\Visual Studio 2015\Projects\PrijavaKvara_v2\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.pdb
+C:\Users\Darjan\Documents\Visual Studio 2015\Projects\PrijavaKvara_v2\PrijavaKvara_v2\bin\Debug\Baza1.mdf
+C:\Users\Darjan\Documents\Visual Studio 2015\Projects\PrijavaKvara_v2\PrijavaKvara_v2\bin\Debug\Baza1_log.ldf
+C:\Users\Darjan\Documents\Visual Studio 2015\Projects\PrijavaKvara_v2\PrijavaKvara_v2\bin\Debug\PrijavaKvara_v2.exe
+C:\Users\Darjan\Documents\Visual Studio 2015\Projects\PrijavaKvara_v2\PrijavaKvara_v2\bin\Debug\PrijavaKvara_v2.pdb
+C:\Users\Darjan\Documents\Visual Studio 2015\Projects\PrijavaKvara_v2\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.csprojResolveAssemblyReference.cache
+C:\Users\Darjan\Documents\Visual Studio 2015\Projects\PrijavaKvara_v2\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.Form1.resources
+C:\Users\Darjan\Documents\Visual Studio 2015\Projects\PrijavaKvara_v2\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.Form2.resources
+C:\Users\Darjan\Documents\Visual Studio 2015\Projects\PrijavaKvara_v2\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.Form3.resources
+C:\Users\Darjan\Documents\Visual Studio 2015\Projects\PrijavaKvara_v2\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.Properties.Resources.resources
+C:\Users\Darjan\Documents\Visual Studio 2015\Projects\PrijavaKvara_v2\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.csproj.GenerateResource.Cache
+C:\Users\Darjan\Documents\Visual Studio 2015\Projects\PrijavaKvara_v2\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.Lokacija.resources
+C:\Users\Darjan\Documents\Visual Studio 2015\Projects\PrijavaKvara_v2\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.Administrator.resources
+C:\Users\Darjan\Documents\Visual Studio 2015\Projects\PrijavaKvara_v2\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.OpisKvara.resources
+F:\PrijavaKvara_v2\PrijavaKvara_v2\bin\Debug\PrijavaKvara_v2.exe.config
+F:\PrijavaKvara_v2\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.exe
+F:\PrijavaKvara_v2\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.pdb
+F:\PrijavaKvara_v2\PrijavaKvara_v2\bin\Debug\Baza1.mdf
+F:\PrijavaKvara_v2\PrijavaKvara_v2\bin\Debug\Baza1_log.ldf
+F:\PrijavaKvara_v2\PrijavaKvara_v2\bin\Debug\PrijavaKvara_v2.exe
+F:\PrijavaKvara_v2\PrijavaKvara_v2\bin\Debug\PrijavaKvara_v2.pdb
+F:\PrijavaKvara_v2\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.csprojResolveAssemblyReference.cache
+F:\PrijavaKvara_v2\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.Administrator.resources
+F:\PrijavaKvara_v2\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.Form1.resources
+F:\PrijavaKvara_v2\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.Form2.resources
+F:\PrijavaKvara_v2\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.Form3.resources
+F:\PrijavaKvara_v2\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.Lokacija.resources
+F:\PrijavaKvara_v2\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.OpisKvara.resources
+F:\PrijavaKvara_v2\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.Properties.Resources.resources
+F:\PrijavaKvara_v2\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.csproj.GenerateResource.Cache
+C:\Users\Ivan\Desktop\PrijavaKvara_v2\PrijavaKvara_v2\bin\Debug\PrijavaKvara_v2.exe.config
+C:\Users\Ivan\Desktop\PrijavaKvara_v2\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.exe
+C:\Users\Ivan\Desktop\PrijavaKvara_v2\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.pdb
+C:\Users\Ivan\Desktop\PrijavaKvara_v2\PrijavaKvara_v2\bin\Debug\Baza1.mdf
+C:\Users\Ivan\Desktop\PrijavaKvara_v2\PrijavaKvara_v2\bin\Debug\Baza1_log.ldf
+C:\Users\Ivan\Desktop\PrijavaKvara_v2\PrijavaKvara_v2\bin\Debug\PrijavaKvara_v2.exe
+C:\Users\Ivan\Desktop\PrijavaKvara_v2\PrijavaKvara_v2\bin\Debug\PrijavaKvara_v2.pdb
+C:\Users\Ivan\Desktop\PrijavaKvara_v2\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\PrijavaKvara_v2\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.Administrator.resources
+C:\Users\Ivan\Desktop\PrijavaKvara_v2\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.Form1.resources
+C:\Users\Ivan\Desktop\PrijavaKvara_v2\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.Form2.resources
+C:\Users\Ivan\Desktop\PrijavaKvara_v2\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.Form3.resources
+C:\Users\Ivan\Desktop\PrijavaKvara_v2\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.Lokacija.resources
+C:\Users\Ivan\Desktop\PrijavaKvara_v2\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.OpisKvara.resources
+C:\Users\Ivan\Desktop\PrijavaKvara_v2\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.Properties.Resources.resources
+C:\Users\Ivan\Desktop\PrijavaKvara_v2\PrijavaKvara_v2\obj\Debug\PrijavaKvara_v2.csproj.GenerateResource.Cache
